@@ -10,8 +10,8 @@ items:
  - kitao/pyxel
  - jackschaedler/goya
  - cloudhead/rx
-display_name: Pixel Art Tools
+display_name: Pixel_2000 Art-Tools
 created_by: leereilly
 image: pixel-art-tools.png
 ---
-Creating pixel art for fun or animated sprites for a game? The digital artist in you will love these apps and tools!
+Creating pixel art for fun or animated sprites for a games? The digital artist in you will love these apps and tools!
